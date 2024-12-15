@@ -1,4 +1,4 @@
-## Optimizing Image Classification on CIFAR-10 with Transformer Architectures
+# Optimizing Image Classification on CIFAR-10 with Transformer Architectures
 
 ### Overview
 This repository contains the final report and supporting materials for my Data Mining course project at Columbia University. My team explored the application of Transformer architectures to image classification tasks, using the CIFAR-10 dataset as a benchmark. The primary focus was on balancing computational efficiency with classification accuracy by comparing various Transformer-based models.
